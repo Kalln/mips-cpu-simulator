@@ -1,7 +1,7 @@
 type cpu = {
     memory: Array<number>,
     register: Array<number>
-    program_counter: number, 
+    program_counter: number,
 
 }
 
